@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hayk</h1>
 <h3 align="center">A passionate Full Stack web developer from Sacramento CA</h3>
 
-<div style="width:30px;">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight)
-</div>
+
+![GitHub stats](<div style="width:30px;"> https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight</div>)
+
 
 ### Top languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoneam&theme=tokyonight)
