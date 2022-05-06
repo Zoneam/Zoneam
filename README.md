@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hayk</h1>
 <h3 align="center">A passionate Full Stack web developer from Sacramento CA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoneam&label=Profile%20views&color=0e75b6&style=flat" alt="zoneam" /> </p>
-
+<div style="width:30px">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight)
+</div>
 
 ### Top languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoneam&theme=tokyonight)
