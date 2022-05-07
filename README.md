@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack web developer from Sacramento CA</h3>
 
 
-(<div width="30px"> <img src="https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight"></img></div>)
+<div width="30px"> <img style="width:50px" src="https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight" ></img></div>
 
 
 ### Top languages Used
