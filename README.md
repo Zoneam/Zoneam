@@ -4,7 +4,7 @@
 
 <p align="center"><img style="width:400px; display:inline-block; align:center;" src="https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight"></img></p>
 
-<img style="width:400px; display:inline-block; align:center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoneam&theme=tokyonight"></img>
+<p align="center"><img style="width:400px; display:inline-block; align:center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoneam&theme=tokyonight"></img></p>
 <br>
 
 ## :trophy: Git profile Trophies
