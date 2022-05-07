@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Full Stack web developer from Sacramento CA</h3>
 
 
-<img style="width:400px; display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight"></img>
+<img style="width:400px; display:inline-block; align:center;" src="https://github-readme-stats.vercel.app/api?username=Zoneam&show_icons=true&theme=tokyonight"></img>
 
 
-<img style="width:400px; display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoneam&theme=tokyonight"></img>
+<img style="width:400px; display:inline-block; align:center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoneam&theme=tokyonight"></img>
 
 <br>
 
